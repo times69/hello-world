@@ -29,6 +29,9 @@ public class FireKnife : MonoBehaviour
         bCollider2D.sharedMaterial = null;
 
         tempPosition = new Vector3(0, 1.0f, 0);
+        tempPosition = new Vector3(0, 1.0f, 0);
+        tempPosition = new Vector3(0, 1.0f, 0);
+        tempPosition = new Vector3(0, 1.0f, 0);
     }
     // Use this for initialization
     void Start()
