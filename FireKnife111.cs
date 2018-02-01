@@ -32,12 +32,10 @@ public class FireKnife : MonoBehaviour
         tempPosition = new Vector3(0, 1.0f, 0);
         tempPosition = new Vector3(0, 1.0f, 0);
         //tempPosition = new Vector3(0, 1.0f, 0);
-        tempPosition = new Vector3(0, 1.0f, 0);
-        tempPosition = new Vector3(0, 1.0f, 0);
+
 
         spriteRender.sortingLayerName = "kniftLayer";
         spriteRender.sortingOrder = 2;
-
 
 
         phyMaterial = bCollider2D.sharedMaterial;
